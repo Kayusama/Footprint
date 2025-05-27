@@ -1,0 +1,2 @@
+D:/FLUTTERPROJECTS/footprint/android/app/.cxx/RelWithDebInfo/2m2z2w72/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/FLUTTERPROJECTS/footprint/android/app/.cxx/RelWithDebInfo/2m2z2w72/arm64-v8a/CMakeFiles/rebuild_cache.dir
