@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # footprint3
 
 A new Flutter project.
